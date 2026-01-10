@@ -1,6 +1,6 @@
 # 🐳 Configuração do Docker & Cluster Kubernetes (Minikube)
 
-Projeto acadêmico desenvolvido para demonstrar a instalação e configuração do **Docker Desktop** e de um **Cluster Kubernetes local com Minikube**, incluindo a execução de containers, criação de deployments e services.
+Projeto acadêmico desenvolvido para demonstrar a instalação e configuração do **Docker Desktop** e de um Cluster Kubernetes local com **Minikube**, incluindo a execução de containers, criação de deployments e services.
 
 ---
 
@@ -20,7 +20,7 @@ Projeto acadêmico desenvolvido para demonstrar a instalação e configuração 
 ---
 
 ## 🎯 Objetivo
-Demonstrar na prática como configurar o Docker Desktop e o Kubernetes (via Minikube) em ambiente Windows, utilizando **WSL 2** como subsistema Linux.  
+Demonstrar na prática como configurar o Docker Desktop e o Kubernetes (via Minikube) em ambiente Windows, utilizando o subsistema Linux **WSL 2**.  
 O projeto mostra:
 - Instalação e configuração do Docker Desktop.
 - Criação e execução de containers.
